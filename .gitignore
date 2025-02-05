@@ -1,3 +1,6 @@
+# R related file
+.Rhistory
+
 # IDE configuration files
 .vscode/
 *.sublime-workspace
