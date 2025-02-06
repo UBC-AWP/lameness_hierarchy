@@ -21,9 +21,9 @@ expert_eloSteep$X <- NULL
 expert_eloSteep2 <- expert_eloSteep[, c("Cow", "NV_DW_SB_KI_experts_mean")]
 
 
-################################################################################
-############ random Elo with individual raw response ################
-################################################################################
+#####################################################################
+############ random Elo-rating with individual raw response #########
+#####################################################################
 # randomize the sequence 100 times
 # Initialize a matrix to store the Elo ratings for each iteration
 set.seed(123)
