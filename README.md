@@ -5,9 +5,10 @@
 This repository contains the data and code for our project: **Redefining lameness assessment: Constructing lameness hierarchy using crowd-sourced data**.
 
 # Authors
+
 Kehan (Sky) Sheng, Borbala Foris, Marina von Keyserlingk, Tiffany-Anne Timbers, Varinia Cabrera, Daniel Weary
 
-# Highlight of the study
+## Highlight of the study
 
 - Our lameness hierarchy method ranks cows from the most sound to most lame.
 - This method showed high inter-observer reliability among experienced assessors.
@@ -15,7 +16,7 @@ Kehan (Sky) Sheng, Borbala Foris, Marina von Keyserlingk, Tiffany-Anne Timbers, 
 - This method enables quick, precise labeling for lameness videos of dairy cows.
 - 5-level gait scoring system showed low intra- and inter-observer reliability.
 
-# Example Videos in Lameness Hierarchy
+## Example Videos in Lameness Hierarchy
 ![gif](08-Lameness_rank_eloSteepness/plots/hierarchy_example.gif)
 
 ## Repository Structure
