@@ -1,5 +1,9 @@
 ![gif](04-generate_54HIT_html_experts/results/platform_example_short.gif)
 
+# About
+
+This repository contains the data and code for our project: **Redefining lameness assessment: Constructing lameness hierarchy using crowd-sourced data**.
+
 # Authors
 Kehan (Sky) Sheng, Borbala Foris, Marina von Keyserlingk, Tiffany-Anne Timbers, Varinia Cabrera, Daniel Weary
 
@@ -10,10 +14,6 @@ Kehan (Sky) Sheng, Borbala Foris, Marina von Keyserlingk, Tiffany-Anne Timbers, 
 - Hierarchy created by crowd workers closely matched that from experienced assessors.
 - This method enables quick, precise labeling for lameness videos of dairy cows.
 - 5-level gait scoring system showed low intra- and inter-observer reliability.
-
-# About
-
-This repository contains the data and code for our project: **Redefining lameness assessment: Constructing lameness hierarchy using crowd-sourced data**.
 
 # Example Videos in Lameness Hierarchy
 ![gif](08-Lameness_rank_eloSteepness/plots/hierarchy_example.gif)
