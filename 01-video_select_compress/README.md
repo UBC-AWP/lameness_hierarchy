@@ -7,8 +7,8 @@ This folder contains code and data for selecting, processing, and compressing co
 - **code/**: Python scripts for video processing
   - `change_mp4_file_name.py`: Utility for renaming MP4 files with consistent naming convention
   - `compress_video.py`: Script to compress video files to reduce storage requirements
-  - `count_all_mp4_helper.py`: Helper functions used by the main counting script
   - `count_all_mp4.py`: Main script for counting and cataloging all MP4 files by cow ID
+  - `count_all_mp4_helper.py`: Helper functions used by the main counting script
 
 - **results/**: Data files generated from video processing
   - `artificial_group_all_marked.csv`: Dataset containing cow identifiers with gait scores
