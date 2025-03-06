@@ -1,8 +1,19 @@
 ![gif](04-generate_54HIT_html_experts/results/platform_example_short.gif)
 
-# Redefining Lameness Assessment Using Crowd-Sourced Data
+# Authors
+Kehan (Sky) Sheng, Borbala Foris, Marina von Keyserlingk, Tiffany-Anne Timbers, Varinia Cabrera, Daniel Weary
 
-This repository contains the data and code for our project: **Which Cow is Most Lame? Redefining Lameness Assessment Using Crowd-Sourced Data**.
+# Highlight of the study
+
+- Our lameness hierarchy method ranks cows from the most sound to most lame.
+- This method showed high inter-observer reliability among experienced assessors.
+- Hierarchy created by crowd workers closely matched that from experienced assessors.
+- This method enables quick, precise labeling for lameness videos of dairy cows.
+- 5-level gait scoring system showed low intra- and inter-observer reliability.
+
+# About
+
+This repository contains the data and code for our project: **Redefining lameness assessment: Constructing lameness hierarchy using crowd-sourced data**.
 
 # Example Videos in Lameness Hierarchy
 ![gif](08-Lameness_rank_eloSteepness/plots/hierarchy_example.gif)
@@ -21,11 +32,11 @@ Here's a brief overview of the repository's structure. The prefix number in each
 - **08-Lameness_rank_eloSteepness**: Lameness rank generated based on pairwise lameness assessment using EloSteepness.
 - **09-Lameness_rank_merge_sort**: Lameness rank generated based on pairwise lameness assessment using merge sort.
 - **10-Lameness_rank_borda_counting**: Lameness rank generated based on pairwise lameness assessment using borda counting.
-
-Thank you for your interest in our project. We hope you find the data and code insightful!
+- **11-Lameness_rank_borda_counting**: Lameness rank generated based on pairwise lameness assessment using Elo-rating.
 
 ## Dataset Information
 
+- **Paper DOI:** <https://doi.org/10.1016/j.compag.2025.110206>
 - **Dataset DOI:** <https://doi.org/10.5683/SP3/QF1VTK>
 - **Dataset Created:** 2023-09-17
 - **Created by:** Kehan (Sky) Sheng
